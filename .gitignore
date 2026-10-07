@@ -1,0 +1,9 @@
+.claude/
+.wrangler/
+wrangler.toml
+wrangler.jsonc
+node_modules/
+.dev.vars
+.env
+.env.*
+*.log
